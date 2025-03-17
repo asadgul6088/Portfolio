@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0%;
+  box-sizing:border-box ;
+}
+
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    min-height: 100vh;
+    background: seagreen ;
+}
+.one{
+    width: 420px;
+    background: purple;
+    color:#fff;
+}
+.one h1{
+    font-size: 36px;
+    text-align: center;
+}
+.two{
+    width: 100%;
+    height: 50p  x;
+    background: salmon;
+    margin: 36px 0;
+}
+.two{
+height: 100%;
+width: 100%;
+background: transparent;
+border: none;
+outline: none;
+border: 2px solid black ;
+border-radius: 40px;
+}
